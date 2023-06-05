@@ -126,5 +126,18 @@
     ],
     "loot-tables": [],
     "fragment-loot-tables": []
+  },
+  {
+    "title": "Burger King",
+    "author": "Whopper",
+    "duration": 16,
+    "disc-namespace": "music_disc.burgerkingwhoppernine",
+    "model-data": 10,
+    "creeper-drop": true,
+    "lores": [
+      "Whoppppppppper"
+    ],
+    "loot-tables": [],
+    "fragment-loot-tables": []
   }
 ]
